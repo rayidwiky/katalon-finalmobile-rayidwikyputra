@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-String userDirectory = System.getProperty('user.dir')
+/*String userDirectory = System.getProperty('user.dir')
 String filePath = userDirectory + '\\APK-FILES\\Advantage+demo+3.2.apk'
-Mobile.startApplication(filePath, true)
+Mobile.startApplication(filePath, true)*/
 
 Mobile.tap(findTestObject('Object Repository/Order/Lbl_Laptops'), 0)
 
