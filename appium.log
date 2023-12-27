@@ -111,3 +111,9 @@
 [38;5;0m[HTTP][0m [90m{}[39m
 [38;5;0m[HTTP][0m [37m<-- GET /wd/hub/session/181795a5-8c18-46c0-9e7b-c5140cccc73f/screenshot [39m[32m200[39m [90m1074 ms - 435928[39m
 [38;5;0m[HTTP][0m [90m[39m
+[38;5;0m[HTTP][0m [37m-->[39m [37mDELETE[39m [37m/wd/hub/session/181795a5-8c18-46c0-9e7b-c5140cccc73f[39m
+[38;5;0m[HTTP][0m [90m{}[39m
+[38;5;16m[AppiumDriver@868c][0m Removing session 181795a5-8c18-46c0-9e7b-c5140cccc73f from our master session list
+[38;5;48m[AndroidUiautomator2Driver@7e08 (181795a5)][0m Restoring hidden api policy to the device default configuration
+[38;5;0m[HTTP][0m [37m<-- DELETE /wd/hub/session/181795a5-8c18-46c0-9e7b-c5140cccc73f [39m[32m200[39m [90m682 ms - 14[39m
+[38;5;0m[HTTP][0m [90m[39m
