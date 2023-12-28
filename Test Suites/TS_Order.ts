@@ -17,6 +17,18 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC_SignIn</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9ddd80c0-a11f-4bcc-a6b3-9815cf676fc9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9b997c30-8a85-4821-b6c3-36175ff050be</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>6a75eedc-8e7a-4fc4-add4-aaab4f31305b</guid>

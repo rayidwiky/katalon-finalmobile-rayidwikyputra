@@ -16,7 +16,7 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC_SignUp</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -59,6 +59,27 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC_SignIn</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>84372f73-45cf-4651-989c-94f6a9a64fb7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataCSV</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>84372f73-45cf-4651-989c-94f6a9a64fb7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserName</value>
+         <variableId>9ddd80c0-a11f-4bcc-a6b3-9815cf676fc9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>84372f73-45cf-4651-989c-94f6a9a64fb7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Pwd</value>
+         <variableId>9b997c30-8a85-4821-b6c3-36175ff050be</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
