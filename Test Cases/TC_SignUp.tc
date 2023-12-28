@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>SignUp</name>
+   <name>TC_SignUp</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>901065b9-6f28-4ca6-bd51-ddfb7453636e</testCaseGuid>

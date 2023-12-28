@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Search</name>
+   <name>TC_SignIn</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>dc72a71e-87db-4e8a-9bc7-65f7a8c00584</testCaseGuid>
+   <testCaseGuid>91672436-685e-4558-9703-26085c9d9b41</testCaseGuid>
 </TestCaseEntity>
