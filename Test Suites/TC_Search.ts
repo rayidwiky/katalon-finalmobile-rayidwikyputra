@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Order</name>
+   <name>TC_Search</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>9b2bc59c-5fec-4476-a9b6-c94e9ba191be</testSuiteGuid>
+   <testSuiteGuid>bc045cfa-062d-4f3f-9beb-a9fcf07294d8</testSuiteGuid>
    <testCaseLink>
-      <guid>bbf224d9-3d86-467a-a656-36c9e95062ff</guid>
+      <guid>a889b136-7625-41b9-8412-735c3448d006</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SignIn</testCaseId>
+      <testCaseId>Test Cases/TC_SignIn</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>6a75eedc-8e7a-4fc4-add4-aaab4f31305b</guid>
+      <guid>d2bdb5cb-d6a1-4af8-8daa-499625196e8e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Order</testCaseId>
+      <testCaseId>Test Cases/TC_Search</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
