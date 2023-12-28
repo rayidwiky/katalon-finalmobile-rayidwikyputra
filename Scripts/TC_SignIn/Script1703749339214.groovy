@@ -41,5 +41,5 @@ def messageitem = Mobile.getText(findTestObject('SignIn/lbl_USRNM'), 0)
 Mobile.comment(messageitem)
 
 //'Verify if displayed message is correct'
-Mobile.verifyEqual(messageitem, 'rayidwi012')
+Mobile.verifyEqual(messageitem, UserNM)
 
