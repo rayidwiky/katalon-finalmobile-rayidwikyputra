@@ -10,16 +10,16 @@ Author : Rayi
 -----------------------------------------------------
 ** Test Case **
 -----------------------------------------------------
-> Order
+> TC_Order
 1. Verification Success
    
-> Search
+> TC_Search
 1. Verification Search 1 item
    
-> SignIn
+> TC_SignIn
 1. Verification sign in
 
-> SignUp
+> TC_SignUp
 1. Data binding csv
 2. IF - ELSE
 
@@ -27,15 +27,15 @@ Author : Rayi
 
 ** Test Suite **
 -----------------------------------------------------
-> Login
+> TS_Login
 1. Test Cases/SignUp
 2. Test Cases/Login
 
-> Order
+> TS_Order
 1. Test Cases/Login
 2. Test Cases/Order
 
-> Search
+> TS_Search
 1. Test Cases/Login
 2. Test Cases/Search
 
