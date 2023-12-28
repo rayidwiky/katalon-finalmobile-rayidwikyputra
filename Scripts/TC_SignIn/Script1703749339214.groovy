@@ -27,9 +27,9 @@ Mobile.tap(findTestObject('Object Repository/SignIn/Logo_Navbar'), 0)
 
 Mobile.tap(findTestObject('SignUp/btn_Login'), 0)
 
-Mobile.setText(findTestObject('Object Repository/SignIn/Inpt_USRNM'), 'rayidwi012', 0)
+Mobile.setText(findTestObject('Object Repository/SignIn/Inpt_USRNM'), UserNM, 0)
 
-Mobile.setText(findTestObject('Object Repository/SignIn/Inpt_Passwrd'), 'Ketahurayi12', 0)
+Mobile.setText(findTestObject('Object Repository/SignIn/Inpt_Passwrd'), Password, 0)
 
 Mobile.tap(findTestObject('Object Repository/SignIn/btn_Login2'), 0)
 

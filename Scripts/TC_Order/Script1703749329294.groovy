@@ -22,7 +22,7 @@ String filePath = userDirectory + '\\APK-FILES\\Advantage+demo+3.2.apk'
 Mobile.startApplication(filePath, true)*/
 
 Mobile.tap(findTestObject('Object Repository/Order/Lbl_Laptops'), 0)
-
+Mobile.tap(findTestObject('Object Repository/Order/Lbl_Laptops'), 0)
 Mobile.tap(findTestObject('Object Repository/Order/Itm_HPChrome'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Order/btn_ADDCART'), 0)
